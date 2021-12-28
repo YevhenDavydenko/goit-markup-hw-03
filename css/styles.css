@@ -147,6 +147,8 @@ ol {
 
   padding-top: 200px;
   padding-bottom: 200px;
+  max-width: 1600px;
+  margin: 0 auto;
 }
 .hero-title {
   font-weight: 900;
@@ -157,6 +159,8 @@ ol {
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+  width: 696px;
+  margin: auto;
 }
 
 .hero-button {
@@ -251,6 +255,9 @@ ol {
 
 .cards-team {
   background-color: #f5f4fa;
+
+  max-width: 1600px;
+  margin: 0 auto;
 }
 .command {
   margin-bottom: 50px;
